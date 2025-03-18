@@ -1,0 +1,32 @@
+
+.carousel-container { 
+     background-color: #872642;
+}
+.cl-edit { 
+    width: 100%;
+    margin: 2% 0%;
+    height: 400px;
+    overflow: hidden;
+   
+}
+.cl-img { 
+    width: 800px;
+    display: flex;
+    justify-self: center;
+}
+.titre { 
+    text-align: center;
+    /* background-color: #872642 ; */
+}
+.card-container { 
+    background-color: #4C4556;
+}
+.crd-edit { 
+    margin-top: 2%;
+    padding-left: 3%;
+    
+}
+a { 
+text-decoration: none;
+color: inherit;
+}
